@@ -11,7 +11,7 @@ Pour cette première partie du travail pratique, j'ai constaté que certains fic
 Actuellement, Battle.vue gère à la fois l'état du combat, les animations, l'affichage de l'interface et la logique métier. Cela rend le fichier long, complexe à lire et difficile à maintenir ou tester.
 
 
-### Exemple concret et solutions proposés
+### Exemples concrets et solutions proposées
 
     - Création de composants PlayerInfo.vue et EnemyInfo.vue pour les informations du joueur et de l'enemie.
 
@@ -21,7 +21,7 @@ Actuellement, Battle.vue gère à la fois l'état du combat, les animations, l'a
 
 ## Objectif
 
-Meilleur lisibilité du code ainsi qu'une meilleur séparation de la logique permettant de facilité la création des tests!
+Meilleur lisibilité du code ainsi qu'une meilleure séparation de la logique permettant de faciliter la création des tests!
 
 
 ## **2 - Organisation du CSS**

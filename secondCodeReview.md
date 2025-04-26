@@ -52,8 +52,8 @@ Pour le moment, un joueur peut quitter à tout moment la bataille. Cependant, il
 Je prévois donc ajouter un modal de confirmation permettant au joueur de confirmer s'il souhaite quitter vers le menu principal.
 
 
-## **Points Fort et Bonne pratique**
+## **Points forts et Bonne pratique**
 
-Pour cette seconde revue de code, je pense que mes points forts reste très similaire a ceux de la première revue de code.
+Pour cette seconde revue de code, je pense que mes points forts restent très similaires à ceux de la première revue de code.
 
-La logique de bataille est complète et fonctionnel (même si elle requiert quelques modification au niveau du rééquilibrage) et l'application en tant que telle est fonctionnel. 
+La logique de bataille est complète et fonctionnelle (même si elle requiert quelques modifications au niveau du rééquilibrage) et l'application en tant que telle est fonctionnelle. 
